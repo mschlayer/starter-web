@@ -1,1 +1,4 @@
 # type here all files which are excluded from the project!
+
+#*.log -> instead of excluding every file exclude the whole directory:
+log/
