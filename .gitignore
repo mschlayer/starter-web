@@ -2,3 +2,4 @@
 
 #*.log -> instead of excluding every file exclude the whole directory:
 log/
+*.orig
